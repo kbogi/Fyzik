@@ -1,4 +1,4 @@
-MCUEmulator
+Fyzik
 ===========
 
-Customizable MCU emulator
+Jednoducha Fyzika
